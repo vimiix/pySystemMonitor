@@ -17,4 +17,4 @@ MonitorAgent文件每隔5秒，采集如下系统信息：
 
 # 项目流程图
 
-<center>![](http://omfis13un.bkt.clouddn.com/pySystemMonitor.png)</center>
+![](http://omfis13un.bkt.clouddn.com/pySystemMonitor.png)
